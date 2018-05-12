@@ -1,0 +1,38 @@
+_repo: International-Short-Stories--American_32845
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Patten, William
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '1118'
+    url: http://www.gutenberg.org/2009/agents/1118
+description: ''
+gutenberg_issued: '2010-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+tableOfContents: The prophetic pictures / N. Hawthorne -- The legend of Sleepy Hollow
+  / W. Irving -- The gold-bug / E.A. Poe -- Corporal Flint's murder / J.F. Cooper
+  -- Uncle Jim and Uncle Billy / B. Harte -- The notary of Perigueux / H.W. Longfellow
+  -- The widow's cruise / F.R. Stockton -- The count and the wedding guest / O. Henry
+  -- Miss Tooker's wedding gift / J.K. Bangs -- The fable of the two mandolin players
+  and the willing performer / G. Ade -- The fable of the preacher who flew his kite,
+  but not because he wished to do so / G. Ade -- The shadows on the wall / M.E.W.
+  Freeman -- Major Perdue's bargain / J.C. Harris -- A Kentucky Cinderella / F.H.
+  Smith -- By the waters of Paradise / F.M. Crawford -- A memorable night / A.K. Green
+  -- The man from Red Dog / A.H. Lewis -- Jean Michaud's little ship / C.G.D. Roberts
+  -- Those old lunes! / W.G. Simms -- The chiropodist / B. Taylor -- "Mr. Dooley on
+  corporal punishment" / F.P. Dunne -- Over a wood fire / D.G. Mitchell.
+title: 'International Short Stories: American'
+url: http://www.gutenberg.org/ebooks/32845
